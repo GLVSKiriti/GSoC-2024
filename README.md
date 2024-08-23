@@ -4,12 +4,12 @@
 </div>
 
 # General Information 📝
-<b>Organization:</b> [CNCF](https://github.com/cncf) <br>
-<b>Project:</b> [Falco Event Generator](https://github.com/falcosecurity/event-generator) <br>
-<b>Title:</b> Upgrading event-generator and automating Falco performance testing
-<b>Implementation Idea:<b> [Declarative YAML file testing feature](https://hackmd.io/@aldolck/r1o9yU170) <br>
-<b>Mentee:</b> [GLVS Kiriti](https://github.com/GLVSKiriti) <br>
-<b>Mentors:</b> [Jason Dellaluce](https://github.com/jasondellaluce), [Aldo Lacuku](https://github.com/alacuku) 
+- <b>Organization:</b> [CNCF](https://github.com/cncf) <br>
+- <b>Project:</b> [Falco Event Generator](https://github.com/falcosecurity/event-generator) <br>
+- <b>Title:</b> Upgrading event-generator and automating Falco performance testing
+- <b>Implementation Idea:<b> [Declarative YAML file testing feature](https://hackmd.io/@aldolck/r1o9yU170) <br>
+- <b>Mentee:</b> [GLVS Kiriti](https://github.com/GLVSKiriti) <br>
+- <b>Mentors:</b> [Jason Dellaluce](https://github.com/jasondellaluce), [Aldo Lacuku](https://github.com/alacuku) 
 
 # Description 📜
 Falco is a real-time security tool designed to detect abnormal behaviours and security-related runtime events in Linux systems and the cloud. The event-generator is an utility within the Falco ecosystem that helps testing Falco’s detection capabilities. The tool also has benchmark capabilities that represent a building block of the Falco performance testing practices. However, the project received less attention than required in the past few years and would require some care and renovation. 
